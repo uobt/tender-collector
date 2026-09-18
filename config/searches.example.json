@@ -1,0 +1,17 @@
+{
+  "sources": ["ted", "sam", "ukcf"],
+  "mode": "both",
+  "countries_ted": ["GB", "DE", "FR", "NL"],
+  "cpv_codes": ["79342000", "79342100", "79413000"],
+  "naics_codes": [],
+  "keywords": ["marketing", "lead generation"],
+  "posted_within_days": 30,
+  "min_value_eur": 0,
+  "max_notices_per_source": 100,
+  "max_pages_per_search": 10,
+  "transport": {
+    "request_delay_seconds": 1.0,
+    "timeout_seconds": 30,
+    "max_retries": 3
+  }
+}

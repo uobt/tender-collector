@@ -1,0 +1,44 @@
+{
+ "totalRecords": 1,
+ "limit": 100,
+ "offset": 0,
+ "opportunitiesData": [
+  {
+   "noticeId": "5b345bbb7127b91a3ad577b203fc6f68",
+   "title": "Historic Office Renovation",
+   "solicitationNumber": "47PF0018R0023",
+   "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.FEDERAL ACQUISITION SERVICE.PBS R5",
+   "fullParentPathCode": "047.4732.47QTCA",
+   "postedDate": "2018-05-04",
+   "type": "Award Notice",
+   "baseType": "Combined Synopsis/Solicitation",
+   "active": "Yes",
+   "award": {
+    "date": "2018-05-04",
+    "number": "47PF0018C0066",
+    "amount": "800620",
+    "awardee": {
+     "name": "D.G. Beyer, Inc.",
+     "location": {
+      "streetAddress": "3080 S Calhoun Rd.",
+      "city": {"code": "56375", "name": "New Berlin"},
+      "state": {"code": "WI"},
+      "zip": "53251",
+      "country": {"code": "USA"}
+     },
+     "ueiSAM": "025114695AST"
+    }
+   },
+   "naicsCode": "236220",
+   "classificationCode": "Z",
+   "placeOfPerformance": {
+    "streetAddress": "517 E Wisconsin Ave",
+    "city": {"code": "53000", "name": "Milwaukee"},
+    "state": {"code": "WI"},
+    "zip": "53202",
+    "country": {"code": "USA"}
+   }
+  }
+ ],
+ "links": [{"rel": "self", "href": "https://api.sam.gov/opportunities/v2/search?limit=100"}]
+}

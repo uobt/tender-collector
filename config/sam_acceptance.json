@@ -1,0 +1,17 @@
+{
+  "sources": ["sam"],
+  "mode": "both",
+  "countries_ted": [],
+  "cpv_codes": [],
+  "naics_codes": ["541613"],
+  "keywords": [],
+  "posted_within_days": 30,
+  "min_value_eur": 0,
+  "max_notices_per_source": 100,
+  "max_pages_per_search": 10,
+  "transport": {
+    "request_delay_seconds": 1.0,
+    "timeout_seconds": 30,
+    "max_retries": 3
+  }
+}

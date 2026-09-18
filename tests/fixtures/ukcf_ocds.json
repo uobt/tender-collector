@@ -1,0 +1,76 @@
+{
+ "uri": "https://www.contractsfinder.service.gov.uk/Published/Notices/OCDS/Search?limit=2",
+ "version": "1.1",
+ "publishedDate": "2026-09-17T22:11:46+01:00",
+ "publisher": {"name": "Cabinet Office", "scheme": "GB-GOR", "uid": "D2"},
+ "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+ "releases": [
+  {
+   "ocid": "ocds-b5fd17-2ae12044-9d16-4a62-a1c4-46fe3630ed1c",
+   "id": "d578aaf8-f2a0-4cc0-9bd8-1a55c8fb771b-914596",
+   "language": "en",
+   "date": "2026-09-17T22:11:45+01:00",
+   "tag": ["award"],
+   "initiationType": "tender",
+   "tender": {
+    "id": "NCC",
+    "title": "NCC1917 Bedlington Terrier Football Ground Demolition",
+    "description": "Full demolition of Dr Pit Park Welfare Park.",
+    "status": "complete",
+    "classification": {"scheme": "CPV", "id": "45000000", "description": "Construction work"},
+    "value": {"amount": 148620, "currency": "GBP"},
+    "procurementMethodDetails": "Call-off from a framework agreement",
+    "tenderPeriod": {"endDate": "2026-06-25T12:00:00+01:00"}
+   },
+   "parties": [
+    {
+     "id": "GB-SRS-sid4gov.cabinetoffice.gov.uk/By5B2FN2",
+     "name": "Northumberland County Council",
+     "address": {"streetAddress": "County Hall", "locality": "MORPETH", "postalCode": "NE612EF", "countryName": "England"},
+     "roles": ["buyer"]
+    },
+    {
+     "id": "GB-CFS-338456",
+     "name": "A Bucklers Haulage",
+     "address": {"streetAddress": "Marsh Road Garage"},
+     "details": {"scale": "sme"},
+     "roles": ["supplier"]
+    }
+   ],
+   "buyer": {"id": "GB-SRS-sid4gov.cabinetoffice.gov.uk/By5B2FN2", "name": "Northumberland County Council"},
+   "awards": [
+    {
+     "id": "ocds-b5fd17-2ae12044-9d16-4a62-a1c4-46fe3630ed1c-1",
+     "status": "active",
+     "date": "2026-06-26T00:00:00+01:00",
+     "value": {"amount": 148620, "currency": "GBP"},
+     "suppliers": [{"id": "GB-CFS-338456", "name": "A Bucklers Haulage"}],
+     "documents": [
+      {"id": "1", "documentType": "awardNotice", "url": "https://www.contractsfinder.service.gov.uk/Notice/d578aaf8-f2a0-4cc0-9bd8-1a55c8fb771b"}
+     ]
+    }
+   ]
+  },
+  {
+   "ocid": "ocds-b5fd17-aaa1",
+   "id": "11112222-3333-4444-5555-666677778888-914000",
+   "date": "2026-09-16T10:00:00+01:00",
+   "tag": ["tender"],
+   "initiationType": "tender",
+   "tender": {
+    "id": "COUNCIL-42",
+    "title": "Marketing services framework",
+    "description": "Regional marketing framework.",
+    "status": "active",
+    "classification": {"scheme": "CPV", "id": "79342000"},
+    "value": {"amount": 250000, "currency": "GBP"},
+    "tenderPeriod": {"endDate": "2099-01-01T12:00:00Z"}
+   },
+   "parties": [
+    {"id": "GB-SRS-test1", "name": "Test Regional Council", "address": {"locality": "LEEDS"}, "roles": ["buyer"]}
+   ],
+   "buyer": {"id": "GB-SRS-test1", "name": "Test Regional Council"}
+  }
+ ],
+ "links": {"next": "https://www.contractsfinder.service.gov.uk/Published/Notices/OCDS/Search?cursor=abc&limit=2"}
+}

@@ -1,0 +1,27 @@
+{
+ "notices": [
+  {
+   "publication-number": "644140-2026",
+   "buyer-name": {"eng": ["National Transport Authority_1149"]},
+   "winner-name": {"eng": ["Ipsos MORI UK Limited t/a Ipsos"]},
+   "notice-title": {"eng": "Ireland – Business services: law, marketing, consulting, recruitment, printing and security – Pre-Qualification Questionnaire for the Provision of Mystery Passenger Survey Services"},
+   "publication-date": "2026-09-18+02:00",
+   "estimated-value-proc": "3523239",
+   "estimated-value-cur-proc": "EUR",
+   "total-value": 3875563,
+   "total-value-cur": ["EUR"],
+   "form-type": "result",
+   "links": {"html": {"ENG": "https://ted.europa.eu/en/notice/-/detail/644140-2026"}}
+  },
+  {
+   "publication-number": "645194-2026",
+   "buyer-name": {"pol": ["Województwo Śląskie"]},
+   "notice-title": {"pol": "Polska – Usługi reklamowe – Kampania informacyjna"},
+   "publication-date": "2026-09-17+01:00",
+   "estimated-value-proc": "450000",
+   "estimated-value-cur-proc": "PLN",
+   "form-type": "competition",
+   "links": {"html": {"POL": "https://ted.europa.eu/pl/notice/-/detail/645194-2026"}}
+  }
+ ]
+}
